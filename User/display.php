@@ -20,7 +20,7 @@
     </tr>
 	</table>
 </form>
-</center>>
+</center>
 <?php		
 	if(isset($_POST)==TRUE && empty($_POST)==FALSE)
 		{
@@ -59,8 +59,7 @@
 			else{
 				echo "No record is found";
 			}
-		
-
+	
 		}
 	}
 ?>
